@@ -1,0 +1,22 @@
+{
+  "name": "taxi-24",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/engmutabazi100/TAXI-24.git"
+  },
+  "author": "mutabazi Elyse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/engmutabazi100/TAXI-24/issues"
+  },
+  "homepage": "https://github.com/engmutabazi100/TAXI-24#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
